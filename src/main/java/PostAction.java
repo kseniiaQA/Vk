@@ -1,4 +1,4 @@
-
+/*
 public class PostAction {
 
         private int can_pin;
@@ -8,5 +8,5 @@ public class PostAction {
         private int is_favorite;
         // + get/set на все поля
     }
-
+*/
 

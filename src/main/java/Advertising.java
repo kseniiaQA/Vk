@@ -1,10 +1,10 @@
-public class Advertising {
+/*public class Advertising {
 
         private int marked_as_ads;
-        // + get/set на все поля/*
+        // + get/set на все поля*//*
 
 
     }
-
+*/
 
 

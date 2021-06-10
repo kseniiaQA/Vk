@@ -1,4 +1,4 @@
-
+/*
 public class Donut {
 
       private boolean isDonut;
@@ -7,5 +7,5 @@ public class Donut {
      private  string editMore;
         // + get/set на все поля
     }
-
+*/
 
