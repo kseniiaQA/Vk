@@ -1,9 +1,10 @@
+
 public  class ViewComment {
 
  private   int count;
-  private  int user_likes;
- private   int can_like;
-  private  int can_publish;
+  private  int userLikes;
+ private   int canLike;
+  private  int canPublish;
     // + get/set на все поля
 
 }

@@ -1,6 +1,8 @@
+
 public class Repost {
 
    private int count;
-  private  int user_reposted;
+  private  int userReposted;
     // + get/set на все поля
 }
+
