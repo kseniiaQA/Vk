@@ -1,4 +1,4 @@
-/*
+
 public class Place {
     private int id;
     private string title;
@@ -12,4 +12,4 @@ public class Place {
     private int city;
     private string adress;
 }
-*/
+

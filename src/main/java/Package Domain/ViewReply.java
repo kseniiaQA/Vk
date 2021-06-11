@@ -1,4 +1,4 @@
-/*
+
 public class ViewReply {
 
         private int replyOwnerId;
@@ -6,4 +6,4 @@ public class ViewReply {
         // + get/set на все поля
     }
 
-*/
+

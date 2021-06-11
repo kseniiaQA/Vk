@@ -1,4 +1,4 @@
-/*
+
 public class Geo {
  private string type;
  private  string cooridnates;
@@ -6,4 +6,4 @@ public class Geo {
         // + get/set на все поля
     }
 
-*/
+
