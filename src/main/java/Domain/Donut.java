@@ -1,4 +1,4 @@
-
+package Domain;
 public class Donut {
 
       private boolean isDonut;

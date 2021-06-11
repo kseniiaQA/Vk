@@ -1,4 +1,4 @@
-
+package Domain;
 public  class ViewComment {
 
  private   int count;

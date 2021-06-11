@@ -1,4 +1,4 @@
-
+package Domain;
 public class Like {
    private int  count;
 

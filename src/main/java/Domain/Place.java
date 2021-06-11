@@ -1,4 +1,4 @@
-
+package Domain;
 public class Place {
     private int id;
     private string title;

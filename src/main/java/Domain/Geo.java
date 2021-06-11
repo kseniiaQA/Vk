@@ -1,4 +1,4 @@
-
+package Domain;
 public class Geo {
  private string type;
  private  string cooridnates;

@@ -1,3 +1,4 @@
+package Domain;
 public class Advertising {
 
         private int marked_as_ads;

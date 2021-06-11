@@ -1,4 +1,4 @@
-
+package Domain;
 public class PostAction {
 
         private int can_pin;

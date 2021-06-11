@@ -1,3 +1,4 @@
+package Domain;
 public class Copyright {
 
      private   int id;

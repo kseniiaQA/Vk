@@ -1,4 +1,4 @@
-
+package Domain;
 public class Repost {
 
    private int count;
